@@ -19,7 +19,6 @@
 .env.production.local
 .rules
 .firebase
-.json
 .firebasec
 
 
